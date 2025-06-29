@@ -12,3 +12,4 @@ C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\C#02\C#02\obj\Debug\net8.0\r
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\C#02\C#02\obj\Debug\net8.0\C#02.pdb
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\C#02\C#02\obj\Debug\net8.0\C#02.genruntimeconfig.cache
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\C#02\C#02\obj\Debug\net8.0\ref\C#02.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\C#02\C#02\obj\Debug\net8.0\C#02.sourcelink.json

@@ -110,9 +110,9 @@
 
             #region Q9
             //Which of the following is the correct output for the C# code given below?
-            //Console.WriteLine(13 / 2 + " " + 13 % 2); 
+            //Console.WriteLine(13 / 2 + " " + 13 % 2);
 
-            //Answer -> a) 6.5 1
+            //Answer -> d) 6 1
             #endregion
 
             #region Q10
