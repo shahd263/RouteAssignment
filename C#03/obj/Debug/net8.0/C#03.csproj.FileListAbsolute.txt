@@ -1,0 +1,14 @@
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\bin\Debug\net8.0\C#03.exe
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\bin\Debug\net8.0\C#03.deps.json
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\bin\Debug\net8.0\C#03.runtimeconfig.json
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\bin\Debug\net8.0\C#03.dll
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\bin\Debug\net8.0\C#03.pdb
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.AssemblyInfoInputs.cache
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.AssemblyInfo.cs
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.csproj.CoreCompileInputs.cache
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.dll
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\refint\C#03.dll
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.pdb
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\C#03.genruntimeconfig.cache
+C:\Users\compumarts\Desktop\.Net Course\C#\C#03\C#03\obj\Debug\net8.0\ref\C#03.dll
