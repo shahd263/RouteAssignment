@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question03\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question03\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question03\\smsnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question03\\pushnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\oop03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\oop03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question02\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question02\\basicauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question02\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question02\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question02\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question01\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question01\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question01\\irectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question01\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\oop03\\oop03\\question01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E56C0DF-471B-4BAB-A223-4A932902D7BF}|OOP03\\OOP03.csproj|solutionrelative:oop03\\question01\\icircle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Program.cs",
+              "RelativeDocumentMoniker": "OOP03\\Program.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Program.cs",
+              "RelativeToolTip": "OOP03\\Program.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwHMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:30:26.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\INotificationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question03\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\INotificationService.cs",
+              "RelativeToolTip": "OOP03\\Question03\\INotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:29:22.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question03\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\EmailNotificationService.cs",
+              "RelativeToolTip": "OOP03\\Question03\\EmailNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:31:18.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SmsNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\SmsNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question03\\SmsNotificationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\SmsNotificationService.cs",
+              "RelativeToolTip": "OOP03\\Question03\\SmsNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:31:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PushNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\PushNotificationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question03\\PushNotificationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question03\\PushNotificationService.cs",
+              "RelativeToolTip": "OOP03\\Question03\\PushNotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:31:42.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\BasicAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question02\\BasicAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\BasicAuthenticationService.cs",
+              "RelativeToolTip": "OOP03\\Question02\\BasicAuthenticationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:26:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question02\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\IAuthenticationService.cs",
+              "RelativeToolTip": "OOP03\\Question02\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:20:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OOP03",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\OOP03.csproj",
+              "RelativeDocumentMoniker": "OOP03\\OOP03.csproj",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\OOP03.csproj",
+              "RelativeToolTip": "OOP03\\OOP03.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T00:40:21.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\User.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question02\\User.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question02\\User.cs",
+              "RelativeToolTip": "OOP03\\Question02\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:36:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\Rectangle.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question01\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\Rectangle.cs",
+              "RelativeToolTip": "OOP03\\Question01\\Rectangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T01:06:04.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\Circle.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question01\\Circle.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\Circle.cs",
+              "RelativeToolTip": "OOP03\\Question01\\Circle.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:47:48.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRectangle.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\IRectangle.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question01\\IRectangle.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\IRectangle.cs",
+              "RelativeToolTip": "OOP03\\Question01\\IRectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:44:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\IShape.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question01\\IShape.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\IShape.cs",
+              "RelativeToolTip": "OOP03\\Question01\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:40:53.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICircle.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\ICircle.cs",
+              "RelativeDocumentMoniker": "OOP03\\Question01\\ICircle.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\OOP03\\OOP03\\Question01\\ICircle.cs",
+              "RelativeToolTip": "OOP03\\Question01\\ICircle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T00:44:35.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

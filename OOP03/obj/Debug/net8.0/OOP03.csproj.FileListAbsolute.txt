@@ -1,0 +1,14 @@
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\bin\Debug\net8.0\OOP03.exe
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\bin\Debug\net8.0\OOP03.deps.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\bin\Debug\net8.0\OOP03.runtimeconfig.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\bin\Debug\net8.0\OOP03.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\bin\Debug\net8.0\OOP03.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.AssemblyInfoInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.AssemblyInfo.cs
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.csproj.CoreCompileInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\refint\OOP03.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\OOP03.genruntimeconfig.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\OOP03\OOP03\obj\Debug\net8.0\ref\OOP03.dll
