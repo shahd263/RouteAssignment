@@ -1,0 +1,14 @@
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\bin\Debug\net8.0\ADV01.exe
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\bin\Debug\net8.0\ADV01.deps.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\bin\Debug\net8.0\ADV01.runtimeconfig.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\bin\Debug\net8.0\ADV01.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\bin\Debug\net8.0\ADV01.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.AssemblyInfoInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.AssemblyInfo.cs
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.csproj.CoreCompileInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\refint\ADV01.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ADV01.genruntimeconfig.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\C#\ADV01\ADV01\obj\Debug\net8.0\ref\ADV01.dll
