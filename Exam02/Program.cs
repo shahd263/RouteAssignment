@@ -51,7 +51,8 @@ namespace Exam02
 
                         Question q = e.Questions[i];
                         q.Display();
-                        int ans = int.Parse(Console.ReadLine() ?? "-1");
+                        if (!int.TryParse(Console.ReadLine(), out int ans))
+                            ans = -1;
                         
                         UserAnswers[i]= q.Choices.Find(a => a.AnswerID == ans) ?? new Answers(ans, "Invalid Answer");
 
