@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\trueorfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\mcq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\exam02\\exam02\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5720A64-E6F6-4374-B419-AE7E143D04B2}|Exam02\\Exam02.csproj|solutionrelative:exam02\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MCQ.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\MCQ.cs",
+              "RelativeDocumentMoniker": "Exam02\\MCQ.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\MCQ.cs*",
+              "RelativeToolTip": "Exam02\\MCQ.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:53:03.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Exam02\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\FinalExam.cs",
+              "RelativeToolTip": "Exam02\\FinalExam.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:46:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Answers.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Answers.cs",
+              "RelativeDocumentMoniker": "Exam02\\Answers.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Answers.cs",
+              "RelativeToolTip": "Exam02\\Answers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:45:41.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "Exam02\\PracticalExam.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\PracticalExam.cs",
+              "RelativeToolTip": "Exam02\\PracticalExam.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:36:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Exam.cs",
+              "RelativeDocumentMoniker": "Exam02\\Exam.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Exam.cs",
+              "RelativeToolTip": "Exam02\\Exam.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:39:31.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Question.cs",
+              "RelativeDocumentMoniker": "Exam02\\Question.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Question.cs*",
+              "RelativeToolTip": "Exam02\\Question.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswCwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:35:24.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Program.cs",
+              "RelativeDocumentMoniker": "Exam02\\Program.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Program.cs",
+              "RelativeToolTip": "Exam02\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:33:29.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrueOrFalse.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\TrueOrFalse.cs",
+              "RelativeDocumentMoniker": "Exam02\\TrueOrFalse.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\TrueOrFalse.cs*",
+              "RelativeToolTip": "Exam02\\TrueOrFalse.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T22:33:24.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Subject.cs",
+              "RelativeDocumentMoniker": "Exam02\\Subject.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\Exam02\\Exam02\\Subject.cs*",
+              "RelativeToolTip": "Exam02\\Subject.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T01:32:30.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
