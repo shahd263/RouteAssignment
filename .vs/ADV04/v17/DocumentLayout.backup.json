@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\adv04\\adv04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|solutionrelative:adv04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\adv04\\adv04\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|solutionrelative:adv04\\bookfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\adv04\\adv04\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|solutionrelative:adv04\\libraryengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\c#\\adv04\\adv04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCCB7BC1-85D8-47DA-A4A5-AC57C61E18B2}|ADV04\\ADV04.csproj|solutionrelative:adv04\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryEngine.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\LibraryEngine.cs",
+              "RelativeDocumentMoniker": "ADV04\\LibraryEngine.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\LibraryEngine.cs",
+              "RelativeToolTip": "ADV04\\LibraryEngine.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:20:17.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\BookFunctions.cs",
+              "RelativeDocumentMoniker": "ADV04\\BookFunctions.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\BookFunctions.cs",
+              "RelativeToolTip": "ADV04\\BookFunctions.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:17:08.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\Book.cs",
+              "RelativeDocumentMoniker": "ADV04\\Book.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\Book.cs",
+              "RelativeToolTip": "ADV04\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:13:17.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\Program.cs",
+              "RelativeDocumentMoniker": "ADV04\\Program.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\C#\\ADV04\\ADV04\\Program.cs*",
+              "RelativeToolTip": "ADV04\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T23:12:50.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
