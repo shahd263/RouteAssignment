@@ -1,0 +1,14 @@
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\bin\Debug\net8.0\LINQ02.exe
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\bin\Debug\net8.0\LINQ02.deps.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\bin\Debug\net8.0\LINQ02.runtimeconfig.json
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\bin\Debug\net8.0\LINQ02.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\bin\Debug\net8.0\LINQ02.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.AssemblyInfoInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.AssemblyInfo.cs
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.csproj.CoreCompileInputs.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\refint\LINQ02.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.pdb
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\LINQ02.genruntimeconfig.cache
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\LinQ\LINQ02\LINQ02\obj\Debug\net8.0\ref\LINQ02.dll
