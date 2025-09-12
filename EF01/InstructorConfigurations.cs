@@ -17,9 +17,12 @@ namespace EF01
             I.Property(I => I.Name).HasColumnName("Inst_Name").HasColumnType("varchar").HasMaxLength(50);
             I.Property(I => I.Bonus);
             I.Property(I=> I.Address).IsRequired(false);
-            I.Property(I => I.Dept_Id).IsRequired();
             I.Property(I => I.Salary);
-            I.Property(I => I.HourRate);  
+            I.Property(I => I.HourRate);
+            I.HasOne(I => I.WorkFor)
+                    .WithMany(D => D.Instructors)
+                    .HasForeignKey(W=> W.WorkForId)
+                    .OnDelete(DeleteBehavior.NoAction);
 
         }
     }

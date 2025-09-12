@@ -13,7 +13,10 @@ namespace EF01.Models
         public string LName { get; set; }
         public string? Address { get; set; }
         public int Age { get; set; }
-        public int Dept_id { get; set; }
+        public int DepartmentId { get; set; }
+        public Department Department { get; set; }
+
+        public List<Stud_Course> Courses { get; set; }
 
 
     }

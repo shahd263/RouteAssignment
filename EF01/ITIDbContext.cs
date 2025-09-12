@@ -36,13 +36,13 @@ namespace EF01
         {
             modelBuilder.Entity<Stud_Course>(entityBuilder =>
             {
-                entityBuilder.HasKey(s => new { s.Stud_Id, s.Course_Id });
+                entityBuilder.HasKey(s => new { s.StudentId, s.CourseId });
                 entityBuilder.Property(s => s.Grade)
                 .IsRequired();
             });
             modelBuilder.Entity<Course_Inst>(entityBuilder =>
             {
-                entityBuilder.HasKey(c => new {c.Course_Id, c.Inst_Id });
+                entityBuilder.HasKey(c => new {c.CourseId, c.InstructorId });
                 entityBuilder.Property(c => c.Evaluate).HasMaxLength(50).IsRequired(false) ;
 
             }); 

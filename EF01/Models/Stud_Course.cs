@@ -8,8 +8,8 @@ namespace EF01.Models
 {
     internal class Stud_Course //By Fluent API
     {
-        public int Stud_Id { get; set; }
-        public int Course_Id { get; set; }
+        public int StudentId { get; set; }
+        public int CourseId { get; set; }
 
         public double Grade { get; set; }
 

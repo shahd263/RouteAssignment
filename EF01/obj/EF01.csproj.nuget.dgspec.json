@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\LinQ\\EF01\\EF01\\EF01.csproj": {}
+    "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\EFCore\\EF01\\EF01\\EF01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\LinQ\\EF01\\EF01\\EF01.csproj": {
+    "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\EFCore\\EF01\\EF01\\EF01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\LinQ\\EF01\\EF01\\EF01.csproj",
+        "projectUniqueName": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\EFCore\\EF01\\EF01\\EF01.csproj",
         "projectName": "EF01",
-        "projectPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\LinQ\\EF01\\EF01\\EF01.csproj",
+        "projectPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\EFCore\\EF01\\EF01\\EF01.csproj",
         "packagesPath": "C:\\Users\\compumarts\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\LinQ\\EF01\\EF01\\obj\\",
+        "outputPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\EFCore\\EF01\\EF01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

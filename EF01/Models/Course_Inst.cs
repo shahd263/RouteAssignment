@@ -9,8 +9,8 @@ namespace EF01.Models
 {
     internal class Course_Inst //By Fluent API
     {
-        public int Course_Id { get; set; }
-        public int Inst_Id { get; set; }
+        public int CourseId { get; set; }
+        public int InstructorId { get; set; }
 
         public string? Evaluate { get; set; }
     }

@@ -14,6 +14,9 @@ namespace EF01.Models
         public int Salary { get; set; }
         public string Address { get; set; }
         public double HourRate { get; set; }
-        public int Dept_Id { get; set; }
+        public int? WorkForId { get; set; }
+        public Department? WorkFor { get; set; }
+
+        public List<Course_Inst> courses { get; set; }
     }
 }

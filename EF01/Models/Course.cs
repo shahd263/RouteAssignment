@@ -27,7 +27,11 @@ namespace EF01.Models
         public string? Description { get; set; }
 
         [Required]
+        [ForeignKey(nameof(Topic))]
         public int Top_ID { get; set; }
+        public Topic Topic { get; set; }
+        public List<Stud_Course> Students { get; set; }
+        public List<Course_Inst> Insructors { get; set; }
 
     }
 }
