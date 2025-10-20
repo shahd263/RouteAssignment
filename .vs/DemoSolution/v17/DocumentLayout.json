@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\classes\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD1ED6-E36C-425B-9B01-DDDFBBEF465D}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\data\\configrations\\departmentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\configrations\\departmentconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFE0BD30-818C-4D96-A86E-57E18EEB7342}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.bll\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.bll\\dtos\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\adddepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\demosolution\\demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B697A74-2ED3-48D2-B57A-19872263348F}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\departmentdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,87 +55,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IDepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Interfaces\\IDepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T05:02:20.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
               "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
               "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Program.cs",
               "RelativeToolTip": "Demo.PL\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBIAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwCkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:59:42.575Z"
+              "WhenOpened": "2025-10-20T07:21:01.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DepartmentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\Classes\\DepartmentRepository.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\DepartmentRepository.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Repositories\\Classes\\DepartmentRepository.cs",
-              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\DepartmentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:56:35.501Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T07:06:13.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T07:25:58.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAKAAAAAAAAAA==",
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:43:48.197Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentConfigration.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Data\\Configrations\\DepartmentConfigration.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Configrations\\DepartmentConfigration.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Data\\Configrations\\DepartmentConfigration.cs",
-              "RelativeToolTip": "Demo.DAL\\Data\\Configrations\\DepartmentConfigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:31:09.24Z"
+              "WhenOpened": "2025-10-20T06:57:35.44Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Title": "UpdateDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\UpdateDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\UpdateDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\UpdateDepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\UpdateDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:19:59.96Z"
+              "WhenOpened": "2025-10-20T06:40:34.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddDepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\AddDepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\AddDepartmentDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\AddDepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\AddDepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:18:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:52:54.283Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "Demo.DAL\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.DAL\\Models\\Department.cs",
-              "RelativeToolTip": "Demo.DAL\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T04:19:06.984Z"
+              "WhenOpened": "2025-10-20T05:50:48.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartmentDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\DemoSolution\\Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\DepartmentDetailsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T05:59:35.485Z",
+              "EditorCaption": ""
             }
           ]
         }

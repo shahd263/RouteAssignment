@@ -10,5 +10,9 @@ namespace Demo.DAL.Repositories.Interfaces
     public interface IDepartmentRepository
     {
         Department? GetById(int Id);
+        IEnumerable<Department> GetAll();
+        int Update(Department department);
+        int Delete(Department department);
+        int Add(Department department);
     }
 }

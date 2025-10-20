@@ -13,3 +13,4 @@ C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.BLL\obj\D
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.BLL\obj\Debug\net9.0\refint\Demo.BLL.dll
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.BLL\obj\Debug\net9.0\Demo.BLL.pdb
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.BLL\obj\Debug\net9.0\ref\Demo.BLL.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.BLL\obj\Debug\net9.0\Demo.BLL.sourcelink.json

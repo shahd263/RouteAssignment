@@ -1,3 +1,4 @@
+using Demo.BLL.Services;
 using Demo.DAL.Data.Contexts;
 using Demo.DAL.Repositories.Classes;
 using Demo.DAL.Repositories.Interfaces;
@@ -18,6 +19,8 @@ namespace Demo.PL
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository>();
+            builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
