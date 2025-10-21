@@ -8,7 +8,7 @@ namespace Demo.BLL.DTOs
 {
     public class UpdateDepartmentDto
     {
-        public int Id { get; }
+        public int Id { get; set; }
         public string Name { get; set; } = null!;
         public string? Description { get; set; }
         public string Code { get; set; } = null!;

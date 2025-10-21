@@ -4,7 +4,7 @@ namespace Demo.BLL.Services
 {
     public interface IDepartmentService
     {
-        int AddDepartment(DepartmentDto departmentDto);
+        int AddDepartment(AddDepartmentDto departmentDto);
         int DeleteDepartment(int Id);
         IEnumerable<DepartmentDto> GetAllDepartments();
         DepartmentDetailsDto? GetDepartmentById(int Id);

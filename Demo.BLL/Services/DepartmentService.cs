@@ -41,7 +41,7 @@ namespace Demo.BLL.Services
 
         }
 
-        public int AddDepartment(DepartmentDto departmentDto)
+        public int AddDepartment(AddDepartmentDto departmentDto)
         {
             try
             {

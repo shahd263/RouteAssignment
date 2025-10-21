@@ -20,6 +20,7 @@ namespace Demo.BLL.DTOs
             CreatedBy = department.CreatedBy;
             LastModifiedBy = department.LastModifiedBy;
             IsDeleted = department.IsDeleted;
+            LastModifiedOn = department.LastModifiedAt.ToString();
         }
         public int Id { get; set; }
         public string  Name { get; set; } = null!;
@@ -27,6 +28,8 @@ namespace Demo.BLL.DTOs
         public string? Description { get; set; }
         public string CreatedAt { get; set; } = null!;
         public int CreatedBy { get; set; }
+        public string LastModifiedOn { get; set; } = null!;
+
         public int? LastModifiedBy { get; set; }
         public bool IsDeleted { get; set; } 
     }
