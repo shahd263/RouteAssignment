@@ -7,12 +7,8 @@ using System.Threading.Tasks;
 
 namespace Demo.DAL.Repositories.Interfaces
 {
-    public interface IDepartmentRepository
+    public interface IDepartmentRepository : IGenericRepository<Department>
     {
-        Department? GetById(int Id);
-        IEnumerable<Department> GetAll();
-        int Update(Department department);
-        int Delete(Department department);
-        int Add(Department department);
+        
     }
 }

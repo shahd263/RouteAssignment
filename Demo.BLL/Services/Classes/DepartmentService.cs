@@ -1,4 +1,5 @@
-﻿using Demo.BLL.DTOs;
+﻿using Demo.BLL.DTOs.DepartmentDtos;
+using Demo.BLL.Services.Interfaces;
 using Demo.DAL.Models;
 using Demo.DAL.Repositories.Interfaces;
 using System;
@@ -7,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Demo.BLL.Services
+namespace Demo.BLL.Services.Classes
 {
     public class DepartmentService : IDepartmentService
     {

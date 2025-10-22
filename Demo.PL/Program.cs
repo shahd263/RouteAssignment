@@ -1,4 +1,6 @@
-using Demo.BLL.Services;
+using Demo.BLL;
+using Demo.BLL.Services.Classes;
+using Demo.BLL.Services.Interfaces;
 using Demo.DAL.Data.Contexts;
 using Demo.DAL.Repositories.Classes;
 using Demo.DAL.Repositories.Interfaces;
@@ -18,8 +20,15 @@ namespace Demo.PL
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-            builder.Services.AddScoped<IDepartmentRepository,DepartmentRepository>();
+            //builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
             builder.Services.AddScoped<IDepartmentService, DepartmentService>();
+            builder.Services.AddScoped<IEmplyeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+            builder.Services.AddAutoMapper(X => X.AddProfile(new MappingProfiles()));  
+
+
 
             var app = builder.Build();
 

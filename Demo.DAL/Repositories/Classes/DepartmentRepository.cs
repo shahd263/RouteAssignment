@@ -9,39 +9,15 @@ using System.Threading.Tasks;
 
 namespace Demo.DAL.Repositories.Classes
 {
-    public class DepartmentRepository :IDepartmentRepository
+    public class DepartmentRepository : GenericRepository<Department>, IDepartmentRepository
     {
         private readonly AppDbContext _dbContext;
 
-        public DepartmentRepository(AppDbContext dbContext)
+        public DepartmentRepository(AppDbContext dbContext): base(dbContext)
         {
             _dbContext = dbContext;
         }
 
-        public int Add(Department department)
-        {
-            if(department is null) return 0;
-            _dbContext.Departments.Add(department);
-            return _dbContext.SaveChanges();
-        }
 
-        public int Delete(Department department)
-        {
-            if (department is null) return 0;
-            _dbContext.Departments.Remove(department);
-            return _dbContext.SaveChanges();
-        }
-
-        public IEnumerable<Department> GetAll() => _dbContext.Departments.ToList();
-
-
-        public Department? GetById(int Id) => _dbContext.Departments.Find(Id);
-
-        public int Update(Department department)
-        {
-            if (department is null) return 0;
-            _dbContext.Departments.Update(department);
-            return _dbContext.SaveChanges();
-        }
     }
 }
