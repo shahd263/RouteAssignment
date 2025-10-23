@@ -20,6 +20,7 @@ namespace Demo.DAL.Models
         public EmployeeType EmployeeType { get; set; }
         public Gender Gender { get; set; }
 
-
+        public int? DepartmentId { get; set; }
+        public virtual Department? Department { get; set; }
     }
 }

@@ -25,6 +25,8 @@ namespace Demo.PL.Controllers
         [HttpGet]
         public IActionResult Index()
         {
+            ViewData["Dept1"] = new DepartmentDto() { Name = "TestViewData" };
+            ViewBag.Dept2 = new DepartmentDto() { Name = "TestViewBag" };
             var departments = _departmentService.GetAllDepartments();
             return View(departments);
         }
@@ -43,27 +45,16 @@ namespace Demo.PL.Controllers
                 try
                 {
                     var result = _departmentService.AddDepartment(Department);
-                    if (result > 0) return RedirectToAction(nameof(Index));
-                    else
-                    {
-                        ModelState.AddModelError(string.Empty, "Department Can't Be Added");
-                        return View(Department);
-                    }
+                    if (result > 0)
+                        TempData["SuccessMessage"] = "Department Created Successfully";
+                    
                 }
                 catch (Exception ex)
                 {
-                    if (_environment.IsDevelopment())
-                    {
-                        ModelState.AddModelError(string.Empty, ex.Message);
-                        return View(Department);
-                    }
-                    else
-                    {
-                        //_logger.LogError(ex.Message);
-                        return View(Department);
-                    }
 
+                    TempData["ErrorMessage"] = "Creation Has Failed";
                 }
+                return RedirectToAction(nameof(Index));
 
             }
             else return View(Department);

@@ -13,7 +13,9 @@ namespace Demo.BLL
     {
         public MappingProfiles()
         {
-            CreateMap<Employee, EmployeeDto>().ReverseMap();
+            CreateMap<Employee, EmployeeDto>()
+                 .ForMember(d => d.Department, op => op.MapFrom(s => s.Department != null ? s.Department.Name: null)).ReverseMap(); 
+
             CreateMap<AddEmployeeDto, Employee>();
             CreateMap<UpdateEmployeeDto, Employee>().ReverseMap();
             CreateMap<Employee, EmployeeDetailsDto>();

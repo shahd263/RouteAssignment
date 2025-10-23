@@ -344,3 +344,5 @@ C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\De
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\compumarts\OneDrive\Desktop\.Net Course\MVC\DemoSolution\Demo.PL\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Proxies.dll

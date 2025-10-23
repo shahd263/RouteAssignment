@@ -5,6 +5,7 @@ using Demo.BLL.Services.Interfaces;
 using Demo.DAL.Models;
 using Demo.DAL.Models.Enums;
 using Demo.PL.Models.DepartmentViewModels;
+using Demo.PL.Models.EmployeeViewModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Demo.PL.Controllers
@@ -35,13 +36,27 @@ namespace Demo.PL.Controllers
 
 
         [HttpPost]
-        public IActionResult Create(AddEmployeeDto Employee)
+        public IActionResult Create(EmployeeViewModel Employee)
         {
             if (ModelState.IsValid)
             {
                 try
                 {
-                    var result = _employeeService.AddEmployee(Employee);
+                    var dto = new AddEmployeeDto()
+                    {
+                        Name = Employee.Name,
+                        DepartmentId = Employee.DepartmentId,
+                        Address = Employee.Address,
+                        Age = Employee.Age,
+                        Email = Employee.Email,
+                        EmployeeType = Employee.EmployeeType,
+                        Gender = Employee.Gender,
+                        HiringDate = Employee.HiringDate,
+                        IsActive = Employee.IsActive,
+                        PhoneNumber = Employee.PhoneNumber,
+                        Salary = Employee.Salary
+                    };
+                    var result = _employeeService.AddEmployee(dto);
                     if (result > 0) return RedirectToAction(nameof(Index));
                     else
                     {
@@ -85,38 +100,51 @@ namespace Demo.PL.Controllers
             var employee = _employeeService.GetEmployeeById(id.Value);
             if (employee is null) return NotFound();
 
-            var dto = new UpdateEmployeeDto()
+            var mappedEmp = new EmployeeViewModel()
             {
-                Id = id.Value,
-                Name = employee.Name,
-                Age = employee.Age,
-                Address = employee.Address,
-                Salary = employee.Salary,
-                IsActive = employee.IsActive,
                 Email = employee.Email,
-                PhoneNumber = employee.PhoneNumber,
+                Name = employee.Name,
+                Address = employee.Address,
+                Age = employee.Age,
+                DepartmentId = employee.DepartmentId,
                 EmployeeType = Enum.Parse<EmployeeType>(employee.EmployeeType),
-                Gender = Enum.Parse<Gender>(employee.Gender)
+                Gender = Enum.Parse<Gender>(employee.Gender),
+                IsActive = employee.IsActive,
+                PhoneNumber = employee.PhoneNumber,
+                Salary = employee.Salary,
+                HiringDate = employee.HiringDate,
+
+
             };
-            
-            return View(dto);
+
+            return View(mappedEmp);
 
         }
 
         [HttpPost]
-        public IActionResult Edit([FromRoute] int id, UpdateEmployeeDto employee)
+        public IActionResult Edit([FromRoute] int id, EmployeeViewModel model)
         {
-            if (!ModelState.IsValid) return View(employee);
-            try
+            if (!ModelState.IsValid) return View(model);
+            var dto = new UpdateEmployeeDto()
             {
-                var result = _employeeService.UpdateEmployee(employee);
-                if (result > 0) return RedirectToAction(nameof(Index));
-                return View(employee);
-            }
-            catch (Exception ex)
-            {
-                return View(employee);
-            }
+                Id = id,
+                Name = model.Name,
+                DepartmentId = model.DepartmentId,
+                Address = model.Address,
+                Age = model.Age,
+                Email = model.Email,
+                EmployeeType = model.EmployeeType,
+                Gender = model.Gender,
+                HiringDate = model.HiringDate,
+                IsActive = model.IsActive,
+                PhoneNumber = model.PhoneNumber,
+                Salary = model.Salary
+            };
+
+             var result = _employeeService.UpdateEmployee(dto);
+             if (result > 0) return RedirectToAction(nameof(Index));
+             return View(model);
+            
         }
 
         [HttpPost]
