@@ -1,0 +1,823 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\resetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\identityviewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\identityviewmodels\\forgetpasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\dpartmentviewmodels\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\dpartmentviewmodels\\updatedepartmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\viewmodels\\dpartmentviewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\viewmodels\\dpartmentviewmodels\\departmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\utilities\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\utilities\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F39B2ED5-9E59-3571-B259-95DC77CE2902}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\services\\attachmentservice\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\attachmentservice\\iattachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\services\\attachmentservice\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\attachmentservice\\attachmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\services\\classes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\classes\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\services\\classes\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\factories\\employeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\factories\\employeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\factories\\departmentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\dtos\\employeedtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B62029F-2278-1AAB-3122-4FF25F55DDB6}|Demo.BLL\\Demo.BLL.csproj|solutionrelative:demo.bll\\demo.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\repositories\\classes\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251022174116_addidentitytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251022174116_addidentitytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251020201913_addphotopath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251020201913_addphotopath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251018152930_updaterelations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251018152930_updaterelations.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251017212521_altercolumnphone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251017212521_altercolumnphone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251017184410_createemployeeentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251017184410_createemployeeentity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251013155332_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251013155332_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\companydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251022174116_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251022174116_addidentitytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251020201913_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251020201913_addphotopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251018152930_updaterelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251018152930_updaterelations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251017212521_altercolumnphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251017212521_altercolumnphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251017184410_createemployeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251017184410_createemployeeentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\migrations\\20251013155332_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\migrations\\20251013155332_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\data\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|c:\\users\\compumarts\\onedrive\\desktop\\.net course\\mvc\\sessions_nada\\routeacademy-mvc08\\demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7740798F-3706-C6FC-AB3C-E5114B0A1CD2}|Demo.DAL\\Demo.DAL.csproj|solutionrelative:demo.dal\\demo.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:34:22.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T03:34:00.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Demo.PL\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T03:33:57.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Demo.PL\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\_ViewImports.cshtml",
+              "RelativeToolTip": "Demo.PL\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T03:33:27.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:33:20.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\IdentityViewModels\\ResetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:33:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\IdentityViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:33:08.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\IdentityViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:33:02.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ForgetPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\IdentityViewModels\\ForgetPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:59.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\EmployeeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:46.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateDepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\DpartmentViewModels\\UpdateDepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\DpartmentViewModels\\UpdateDepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\DpartmentViewModels\\UpdateDepartmentViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\DpartmentViewModels\\UpdateDepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:43.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DepartmentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\DpartmentViewModels\\DepartmentViewModel.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\ViewModels\\DpartmentViewModels\\DepartmentViewModel.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\ViewModels\\DpartmentViewModels\\DepartmentViewModel.cs",
+              "RelativeToolTip": "Demo.PL\\ViewModels\\DpartmentViewModels\\DepartmentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:40.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Utilities\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Utilities\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Utilities\\EmailSettings.cs",
+              "RelativeToolTip": "Demo.PL\\Utilities\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Utilities\\Email.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Utilities\\Email.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Utilities\\Email.cs",
+              "RelativeToolTip": "Demo.PL\\Utilities\\Email.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:32:17.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:31:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:31:35.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:31:28.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.PL\\appsettings.json",
+              "RelativeToolTip": "Demo.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T03:30:31.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "Demo.BLL\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:26:14.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDtos\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:26:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:40.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\Classes\\DepartmentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:29.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\AttachmentService\\IAttachmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\AttachmentService\\IAttachmentService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\AttachmentService\\IAttachmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\AttachmentService\\IAttachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:21.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AttachmentService.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\AttachmentService\\AttachmentService.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Services\\AttachmentService\\AttachmentService.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Services\\AttachmentService\\AttachmentService.cs",
+              "RelativeToolTip": "Demo.BLL\\Services\\AttachmentService\\AttachmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:14.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Factories\\EmployeeFactory.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Factories\\EmployeeFactory.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Factories\\EmployeeFactory.cs",
+              "RelativeToolTip": "Demo.BLL\\Factories\\EmployeeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:06.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DepartmentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "RelativeToolTip": "Demo.BLL\\Factories\\DepartmentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:25:00.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Demo.BLL\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "Demo.BLL\\DTOs\\EmployeeDtos\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:24:39.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Demo.BLL",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeDocumentMoniker": "Demo.BLL\\Demo.BLL.csproj",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.BLL\\Demo.BLL.csproj",
+              "RelativeToolTip": "Demo.BLL\\Demo.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T03:20:12.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "RelativeToolTip": "Demo.DAL\\Repositories\\Classes\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:17:07.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Demo.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:17:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\GlobalUsings.cs",
+              "RelativeToolTip": "Demo.DAL\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20251022174116_AddIdentityTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20251020201913_AddPhotoPath.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20251018152930_UpdateRelations.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:39.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20251017212521_AlterColumnPhone.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:34.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20251017184410_CreateEmployeeEntity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:29.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20251013155332_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.Designer.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAWwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:16:21.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CompanyDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\CompanyDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20251022174116_AddIdentityTable.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251022174116_AddIdentityTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:49.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20251020201913_AddPhotoPath.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251020201913_AddPhotoPath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:45.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20251018152930_UpdateRelations.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251018152930_UpdateRelations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:40.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20251017212521_AlterColumnPhone.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251017212521_AlterColumnPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:36.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20251017184410_CreateEmployeeEntity.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251017184410_CreateEmployeeEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:15:31.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Demo.DAL",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeDocumentMoniker": "Demo.DAL\\Demo.DAL.csproj",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Demo.DAL.csproj",
+              "RelativeToolTip": "Demo.DAL\\Demo.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T03:14:01.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20251013155332_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Migrations\\20251013155332_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:13:19.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\compumarts\\OneDrive\\Desktop\\.Net Course\\MVC\\Sessions_Nada\\RouteAcademy-MVC08\\Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Demo.DAL\\Data\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:13:08.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

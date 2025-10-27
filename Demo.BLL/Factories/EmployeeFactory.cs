@@ -1,0 +1,50 @@
+﻿using Demo.DAL.Models;
+using Demo.BLL.DTOs.EmployeeDtos;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo.BLL.Factories
+{
+    public static class EmployeeFactory
+    {
+        public static EmployeeDto ToEmployeeDto(this Employee employee)
+        {
+            return new EmployeeDto()
+            {
+                Id = employee.Id,
+                Name = employee.Name,
+                Email = employee.Email,
+                Age = employee.Age, 
+                IsActive = employee.IsActive,
+                Salary = employee.Salary,
+                Gender = employee.Gender.ToString(),
+                EmployeeType = employee.EmployeeType.ToString()                
+            };
+        }
+
+        public static EmployeeDto ToEmployeeDetailedDto(this Employee employee)
+        {
+            return new EmployeeDto()
+            {
+                Id = employee.Id,
+                Name = employee.Name,
+                Email = employee.Email,
+                Age = employee.Age,
+                IsActive = employee.IsActive,
+                Salary = employee.Salary,
+                Gender = employee.Gender.ToString(),
+                EmployeeType = employee.EmployeeType.ToString(),
+                Address = employee.Address,
+                PhoneNumber = employee.PhoneNumber,
+                CreatedBy = employee.CreatedBy,
+                CreatedOn = employee.CreatedOn.ToString(),
+                HiringDate = employee.HiringDate,
+                LastModifiedOn = employee.LastModifiedOn.ToString(),
+                LastModifiedBy = employee.LastModifiedBy
+            };
+        }
+    }
+}
