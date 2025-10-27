@@ -1,0 +1,5 @@
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.AssemblyReference.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.BLL\obj\Debug\net8.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfoInputs.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.BLL\obj\Debug\net8.0\Demo.BLL.AssemblyInfo.cs
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.BLL\obj\Debug\net8.0\Demo.BLL.csproj.CoreCompileInputs.cache

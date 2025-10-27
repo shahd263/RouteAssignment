@@ -1,0 +1,8 @@
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.csproj.AssemblyReference.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.AssemblyInfoInputs.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.AssemblyInfo.cs
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.csproj.CoreCompileInputs.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.RazorAssemblyInfo.cache
+C:\Users\compumarts\Downloads\RouteAcademy-MVC07\RouteAcademy-MVC07\Demo.PL\obj\Debug\net8.0\Demo.PL.RazorAssemblyInfo.cs
